@@ -31,4 +31,4 @@ The main focus is on demonstrating a simple shredder which is controlled with th
 
   - For the configuration of **CR3133**, please look into to the tutorials in the project management hub.
 
-  - The button colors of CR1140 indicate the current state of the system: $${\color{green}running}$$, $${\color{orange}idle}$$, $${\color{red}safety_cricital_state}$$ and $${\color{blue}confirmation required}$$.
+  - The button colors of CR1140 indicate the current state of the system: $${\color{green}Running}$$ $${\color{orange}Idle}$$ $${\color{red}NonSafe}$$  $${\color{blue}ConfirmAwaited}$$

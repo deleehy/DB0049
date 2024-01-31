@@ -17,7 +17,7 @@ This repository contains implementations of the demo board DB0049, which aims to
 -The version 2 was generated during the training period.  The entire system is, naturally, open to implementation in various creative ways. Feel free to explore different approaches ;)
 
 ## Purpose of the demonstration
-The main focus is on demonstrating a simple shredder which is controlled with the ecomatBasic Controller **CR413S** based on the user inputs from the ecomatDisplay **CR1140**. The status of the operation is wirelessly transfered via the CANWireless **CR3133** to the other ecomatDisplay **CR1142**. The second controller on the right side serves as a placeholder and just blinks without any further tasks.
+The main focus is on demonstrating a simple shredder which is controlled with the ecomatBasic Controller [**CR413S**](https://github.com/deleehy/DB0049/tree/cr413s) based on the user inputs from the ecomatDisplay [**CR1140**](https://github.com/deleehy/DB0049/tree/cr1140). The status of the operation is wirelessly transfered via the CANWireless **CR3133** to the other ecomatDisplay [**CR1142**](https://github.com/deleehy/DB0049/tree/cr1142). The second controller on the right side serves as a placeholder and just blinks without any further tasks.
 
 ## Get Started
   - The Safe application has 2 different states (_NonSafe, Operational_). The NonSafe state is critical and gets triggerred by the emergency stop button or door guard. Once triggered, it immediately stops the operation and can be released only after the explicit confirmation in the display **and** an additional release through the start button.\

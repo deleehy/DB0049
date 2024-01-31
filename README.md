@@ -30,3 +30,5 @@ The main focus is on demonstrating a simple shredder which is controlled with th
   - Speed adjustment can be accomplished through two methods: either by configuring a precise target speed or by incrementally adjusting it using the speed control buttons in P1.
 
   - For the configuration of **CR3133**, please look into to the tutorials in the project management hub.
+
+  - The button colors of CR1140 indicate the current state of the system: <font color="red">running</font>, <font color="orange">idle</font>, <font color="red">safety critical state</font> and <font color="red">confirmation required</font>.

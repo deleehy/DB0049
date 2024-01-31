@@ -32,3 +32,8 @@ The main focus is on demonstrating a simple shredder which is controlled with th
   - For the configuration of **CR3133**, please look into to the tutorials in the project management hub.
 
   - The button colors of CR1140 indicate the current state of the system: $${\color{green}Running}$$ $${\color{orange}Idle}$$ $${\color{red}NonSafe}$$  $${\color{blue}ConfirmAwaited}$$
+
+## TO-DOs:
+  -  The board can be extended by incorporating a meaningful task for CR403s, as it currently serves just as a placeholder.
+  -  Trying to read the SDOs of CR3133 from Codesys failed for an unknown reason, even though it worked perfectly in the Maintenance tool.
+    

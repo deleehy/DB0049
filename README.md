@@ -39,4 +39,4 @@ Set the desired speed and the operation time in CR1140. Press on the _Start_ CT 
 
 ## TO-DOs:
   -  The board can be extended by incorporating a meaningful task for CR403s, as it currently serves just as a placeholder
-  -  
+    

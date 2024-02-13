@@ -38,6 +38,5 @@ Set the desired speed and the operation time in CR1140. Press on the _Start_ CT 
   - Currently, following numbers are logged in **CR1140**: System On Time, System Up Time, Energy Consumption for Shredding and the Stop Events.
 
 ## TO-DOs:
-  -  The board can be extended by incorporating a meaningful task for CR403s, as it currently serves just as a placeholder.
-  -  Trying to read the SDOs of CR3133 from Codesys failed for an unknown reason, even though it worked perfectly in the Maintenance tool.
-    
+  -  The board can be extended by incorporating a meaningful task for CR403s, as it currently serves just as a placeholder
+  -  

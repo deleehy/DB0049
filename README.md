@@ -31,7 +31,7 @@ Set the desired speed and the operation time in CR1140 (By default, it is set to
 
   - Speed adjustment can be accomplished through two methods: either by configuring a precise target speed or by incrementally adjusting it using the speed control buttons in P1.
 
-  - For the configuration of **CR3133**, please look into to the tutorials in the project management hub.
+  - For the configuration of **CR3133**, please look into to the tutorials in the project management hub. By default, it is set to Bluetooth mode and you can connect/disconnect the data communication in **CR1140**.
 
   - The button colors of CR1140 indicate the current state of the system: $${\color{green}Running}$$ $${\color{orange}Idle}$$ $${\color{red}NonSafe}$$  $${\color{blue}ConfirmAwaited}$$
 
